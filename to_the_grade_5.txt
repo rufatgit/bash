@@ -1,0 +1,2 @@
+The script saves the contents of all files with the extension .txt (in the current location) into one file called whole.txt and changes its access to 755. Remember to check if the whole.txt file is already in the current directory.
+Variant b: the name is passed as a command line parameter when the script is executed. Then be sure to check whether the parameter has been passed, if not, display an appropriate message on the screen.
